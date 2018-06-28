@@ -1,0 +1,132 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body {
+    background-color: #FD7272;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: left;
+    
+}
+
+
+
+
+h1
+{
+  
+    text-align: center;
+    color: white;
+    padding:10px;
+}
+
+#input
+{
+    margin:16px 0px;
+}
+
+.input
+{
+  margin:0px 0px 0px 12px;
+ padding: 6px 12px ;
+ width:441px;
+ height:50px;
+ border:1px;
+  display:inline-block;
+ 
+}
+
+.form-group .btn {
+    margin-left: 0.5em;
+    color: #FD7272;
+    font-size: 1.5em;
+margin-top:12px;
+ padding: 6px 12px ;
+    background-color:#f8f9fa;
+    display:inline-block;
+}
+
+#numbers
+{
+    height:200px; 
+    width:500px;
+}
+
+
+
+/*.btn-light {
+
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}*/
+
+.btn {
+   
+    font-weight: 400;
+
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+/* 
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;*/
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+p
+{
+    display:block;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   padding:0;
+    
+   
+    
+}
+
+
+.margin1, margin2, .margin3
+{
+   margin:4.320px;
+}
+
+.clear-btn {
+    width: 300px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+#result
+{
+    margin:16px 0px;
+    width:500px;
+    height:50px;
+    text-align: center;
+}
+
+
+body
+{
+  font-family: 'Orbitron', sans-serif;
+}
+
